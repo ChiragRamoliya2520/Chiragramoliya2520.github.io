@@ -477,6 +477,7 @@ taurusx.com, 80029, RESELLER
 google.com, pub-2960293519697422, DIRECT, f08c47fec0942fa0
 gameadzone.com, 621, DIRECT
 video.unrulymedia.com, 848837292, RESELLER
+google.com, pub-7527939315349898, DIRECT, f08c47fec0942fa0
 
 
 
