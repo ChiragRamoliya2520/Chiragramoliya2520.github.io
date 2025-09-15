@@ -1,4 +1,4 @@
-
+google.com, pub-8203384294527643, DIRECT, f08c47fec0942fa0
 #Ad.Plus
 ad.plus, 23309784827, DIRECT
 google.com, pub-4573231550355221, RESELLER, f08c47fec0942fa0
@@ -12,7 +12,6 @@ video.unrulymedia.com, 895733750, DIRECT
 sovrn.com, 357833, DIRECT, fafdf38b16bf6b2b
 lijit.com, 357833, DIRECT, fafdf38b16bf6b2b
 lijit.com, 357833-eb, DIRECT, fafdf38b16bf6b2b
-
 
 #UK
 google.com, pub-3236911867960984, DIRECT, f08c47fec0942fa0
