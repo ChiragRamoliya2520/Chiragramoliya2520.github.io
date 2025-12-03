@@ -12,7 +12,7 @@ video.unrulymedia.com, 895733750, DIRECT
 sovrn.com, 357833, DIRECT, fafdf38b16bf6b2b
 lijit.com, 357833, DIRECT, fafdf38b16bf6b2b
 lijit.com, 357833-eb, DIRECT, fafdf38b16bf6b2b
-
+google.com, pub-9872870130121963, DIRECT, f08c47fec0942fa
 #UK
 google.com, pub-3236911867960984, DIRECT, f08c47fec0942fa0
 
